@@ -22,7 +22,7 @@ You can deploy this bot anywhere.
 <details><summary>Deploy To Heroku</summary>
 <p>
 <br>
-<a href="https://heroku.com/deploy?template=https://github.com/Kuttusviji/Pro-Auto-Filter-Bot-V2ree/main/tree/main">
+<a href="https://heroku.com/deploy?template=https://github.com/Kuttusviji/Pro-Auto-Filter-Bot-V2/main/tree/main">
   <img src="https://www.herokucdn.com/deploy/button.svg" alt="Deploy">
 </a>
 </p>
